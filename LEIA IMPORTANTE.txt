@@ -1,0 +1,14 @@
+É necessario alterar os itens do conexao.php para a conexao com o banco;
+Existe um aquivo slq contendo os itens do login;
+Os videos foram retirados pois o arquivo seria muito grande para enviar;
+
+1 mes para criar esse site nao foi utilizado nenhum software de criaçao de site ou um site ja pronto
+
+Este site foi feito em grupo 
+
+membros:
+
+Ewerton
+Carlos D
+Paulo bas
+Rodrigo
